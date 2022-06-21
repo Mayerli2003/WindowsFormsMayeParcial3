@@ -1,0 +1,16 @@
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\WFormsMayerli.exe.config
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\WFormsMayerli.exe
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\WFormsMayerli.pdb
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\EntityFramework.dll
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\EntityFramework.SqlServer.dll
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\EntityFramework.xml
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\bin\Debug\EntityFramework.SqlServer.xml
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.csproj.AssemblyReference.cache
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.csproj.SuggestedBindingRedirects.cache
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.Form1.resources
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.Properties.Resources.resources
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.csproj.GenerateResource.cache
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.csproj.CoreCompileInputs.cache
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.csproj.CopyComplete
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.exe
+D:\WindowsFormsMayeParcial3\WFormsMayerli\WFormsMayerli\obj\Debug\WFormsMayerli.pdb
